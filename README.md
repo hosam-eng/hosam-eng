@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hosam ELdeen
+- 👋 Hi, I’m hosam ELdeen
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning ASP .NET
 - this is my linkedin https://www.linkedin.com/in/hossam-gamal-42a7581a3/
